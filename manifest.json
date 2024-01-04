@@ -1,0 +1,49 @@
+{
+    "name": "JotSync",
+    "author 1": "Dario Sorrentino",
+    "author 2": "Emanuele Aprea",
+    "start_url": "heading.tsk",
+    "display": "web-page",
+    "background_color": "#fff",
+    "description": "app for taking symple note",
+    "icons": [
+      {
+        "src": "public/documents-dark.png",
+        "sizes": "1024x768",
+        "type": "image/png"
+      },
+      {
+        "src": "public/documents.png",
+        "sizes": "1024x768",
+        "type": "image/png"
+      },
+      {
+        "src": "public/empty.png",
+        "sizes": "1024x768",
+        "type": "image/png"
+      },
+      {
+        "src": "public/empety-dark.png",
+        "sizes": "1024x768",
+        "type": "image/png"
+      },
+      {
+        "src": "public/reading.png",
+        "sizes": "168x168",
+        "type": "image/png"
+      },
+      {
+        "src": "public/reading-dark.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+      
+    ],
+    "related_applications": [
+      {
+        "platform": "web",
+        "url": "http://localhost:3000"
+      }
+    ]
+  }
+  
